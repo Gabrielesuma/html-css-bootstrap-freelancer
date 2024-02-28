@@ -1,0 +1,22 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*header*/
+
+#portfolio-nav a.nav-link{
+    color: white;
+}
+
+#portfolio-nav a.nav-link:hover{
+    color: #1ABC9C;
+}
+
+.odd{
+    background-color: #1ABC9C;
+    color: white;
+}
+
+.footer-bottom{
+    background-color: #2C3E50;
+}
