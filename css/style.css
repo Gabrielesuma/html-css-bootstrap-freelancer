@@ -2,8 +2,6 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
-/*header*/
-
 #portfolio-nav a.nav-link{
     color: white;
 }
@@ -19,4 +17,9 @@ body{
 
 .footer-bottom{
     background-color: #2C3E50;
+}
+
+.footer-top a{
+    color: #1ABC9C;
+    text-decoration: none;
 }
